@@ -1,13 +1,24 @@
-const path = require("path");
+const path = require('path');
 
-const express = require("express");
+const express = require('express');
 
-const rootDir = require("../util/path");
+const rootDir = require('../util/path');
 
+const modelDir = require('../database/product');
 const router = express.Router();
 
-router.get("/", (req, res, next) => {
-  res.sendFile(path.join(rootDir, "views", "shop.ejs"));
+
+router.get('/detail/{id}', (req, res) => {
+  const id = req.query.id;
+  product = modelDir.product[id]
+  console.log(id)
+  res.render('detail', {
+    prods: product,
+    pageTitle: 'detail',
+    path: '/',
+    activeShop: true,
+    productCSS: true
+  });
 });
 
 module.exports = router;
