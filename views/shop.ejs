@@ -22,7 +22,10 @@
                             <!-- <p class="product_description"><%= product.detail %></p> -->
                         </div>
                         <div class="card__actions">
-                            <button class="btn">Detail</button>
+                            <form action="/add-product" method="GET">
+                                <input type="hidden" id="product_id" name="product_id" value="<%= product.product_id %>">
+                               <button id="<%= product.product_id %>" class="btn" type="submit" >Detail</button>
+                           </form>
                         </div>
                     </article>
                 <% } %>
