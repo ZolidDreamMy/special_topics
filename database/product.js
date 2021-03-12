@@ -1,86 +1,92 @@
 product = [
-    {
-      "product_id": "jenlooper-cactus",
-      "product_name": "@jenlooper",
-      "image_path": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-      "price": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
-      "detail": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
-    },
-    {
-        "product_id": "jenlooper-cactus",
-        "product_name": "@jenlooper",
-        "image_path": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-        "price": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
-        "detail": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
-      },
-      {
-        "product_id": "jenlooper-cactus",
-        "product_name": "@jenlooper",
-        "image_path": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-        "price": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
-        "detail": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
-      },
-      {
-        "product_id": "jenlooper-cactus",
-        "product_name": "@jenlooper",
-        "image_path": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-        "price": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
-        "detail": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
-      },
-      {
-        "product_id": "jenlooper-cactus",
-        "product_name": "@jenlooper",
-        "image_path": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-        "price": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
-        "detail": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
-      },
-      {
-        "product_id": "jenlooper-cactus",
-        "product_name": "@jenlooper",
-        "image_path": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-        "price": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
-        "detail": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
-      },
-      {
-        "product_id": "jenlooper-cactus",
-        "product_name": "@jenlooper",
-        "image_path": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-        "price": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
-        "detail": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
-      },
-      {
-        "product_id": "jenlooper-cactus",
-        "product_name": "@jenlooper",
-        "image_path": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-        "price": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
-        "detail": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
-      },
-      {
-        "product_id": "jenlooper-cactus",
-        "product_name": "@jenlooper",
-        "image_path": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-        "price": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
-        "detail": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
-      },
-      {
-        "product_id": "jenlooper-cactus",
-        "product_name": "@jenlooper",
-        "image_path": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-        "price": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
-        "detail": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
-      },
-      {
-        "product_id": "jenlooper-cactus",
-        "product_name": "@jenlooper",
-        "image_path": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-        "price": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
-        "detail": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
-      },
-      {
-        "product_id": "jenlooper-cactus",
-        "product_name": "@jenlooper",
-        "image_path": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-        "price": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
-        "detail": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
-      }
-  ]
+  {
+    product_id: "001",
+    product_name: "เดรสสั้นแขนตุ๊กตาดีไซน์ Crochet",
+    image_path:
+      "https://pomelofashion.imgix.net/img/p/2/4/5/9/6/1/245961.jpg?auto=compress,format&fm=webp,jpg,png&w=800&q=75",
+    price: "900",
+    detail:
+      "มั่นใจให้สุดในซัมเมอร์นี้กับสไตล์ย้อนยุคแนวใหม่ในคอลเลคชั่น Spring Summer 2021 มีทั้งดีเทลลายปริ้นท์ยุค 70's & โทนสีสุดอินเทรนด์ มาเนรมิตลุคให้ปังพร้อมเปลี่ยนทุกวันให้เป็นซัมเมอร์ในความฝันของคุณได้แล้วผ้าไม่ยืดทำจากผ้าโพลีเอสเตอร์ความยาวระดับต้นขาแต่งดีไซน์คอร์เซ็ตแขนเสื้อทรงตุ๊กตาคอวี",
+  },
+  {
+    product_id: "002",
+    product_name: "เสื้อทรงครอปดีไซน์ Crochet",
+    image_path:
+      "https://pomelofashion.imgix.net/img/p/2/4/5/9/7/6/245976.jpg?auto=compress,format&fm=webp,jpg,png&w=800&q=75",
+    price: "490",
+    detail:
+      "มั่นใจให้สุดในซัมเมอร์นี้กับสไตล์ย้อนยุคแนวใหม่ในคอลเลคชั่น Spring Summer 2021 มีทั้งดีเทลลายปริ้นท์ยุค 70's & โทนสีสุดอินเทรนด์ มาเนรมิตลุคให้ปังพร้อมเปลี่ยนทุกวันให้เป็นซัมเมอร์ในความฝันของคุณได้แล้วทำจากผ้าโพลีเอสเตอร์ทำจากผ้าสแปนเด็กซ์ทรงสวยเข้ารูปเสื้อทรงครอปแต่งดีไซน์ระบายเพิ่มความหวานแต่งดีไซน์คอร์เซ็ต",
+  },
+  {
+    product_id: "003",
+    product_name: "เดรสแต่งดีเทลเว้าลายตารางหมากรุก",
+    image_path:
+      "https://pomelofashion.imgix.net/img/p/2/4/5/6/7/2/245672.jpg?auto=compress,format&fm=webp,jpg,png&w=800&q=75",
+    price: "990",
+    detail:
+      "มั่นใจให้สุดในซัมเมอร์นี้กับสไตล์ย้อนยุคแนวใหม่ในคอลเลคชั่น Spring Summer 2021 มีทั้งดีเทลลายปริ้นท์ยุค 70's & โทนสีสุดอินเทรนด์ มาเนรมิตลุคให้ปังพร้อมเปลี่ยนทุกวันให้เป็นซัมเมอร์ในความฝันของคุณได้แล้วทำจากผ้าวิสโคสทำจากผ้าไนลอนความยาวระดับต้นขาคอเสื้อแต่งดีเทลเว้าดีไซน์คอสูงดีไซน์สายเดี่ยวสปาเก็ตตี้แต่งดีไซน์ผ้าผูกที่คอเสื้อสายปรับระดับได้โดดเด่นด้วยลายตารางหมากรุกทรงสวยเข้ารูป",
+  },
+  {
+    product_id: "004",
+    product_name: "มินิเดรสลายตารางกิงแฮม",
+    image_path:
+      "https://pomelofashion.imgix.net/img/p/2/4/5/7/3/7/245737.jpg?auto=compress,format&fm=webp,jpg,png&w=800&q=75",
+    price: "1490",
+    detail:
+      "มั่นใจให้สุดในซัมเมอร์นี้กับสไตล์ย้อนยุคแนวใหม่ในคอลเลคชั่น Spring Summer 2021 มีทั้งดีเทลลายปริ้นท์ยุค 70's & โทนสีสุดอินเทรนด์ มาเนรมิตลุคให้ปังพร้อมเปลี่ยนทุกวันให้เป็นซัมเมอร์ในความฝันของคุณได้แล้วผ้าไม่ยืดทำจากผ้าโพลีเอสเตอร์ความยาวระดับต้นขาโดดเด่นด้วยผ้าลายตารางกิงแฮมแขนเสื้อทรงตุ๊กตาเพิ่มความเก๋ด้วยดีไซน์เชือกรูดตกแต่งดีเทลไขว้",
+  },
+  {
+    product_id: "005",
+    product_name: "กางเกงดีไซน์ Patchwork เป็นมิตรต่อสิ่งแวดล้อม ",
+    image_path:
+      "https://pomelofashion.imgix.net/img/p/2/4/5/5/8/4/245584.jpg?auto=compress,format&fm=webp,jpg,png&w=800&q=75",
+    price: "1290",
+    detail:
+      "มั่นใจให้สุดในซัมเมอร์นี้กับสไตล์ย้อนยุคแนวใหม่ในคอลเลคชั่น Spring Summer 2021 มีทั้งดีเทลลายปริ้นท์ยุค 70's & โทนสีสุดอินเทรนด์ มาเนรมิตลุคให้ปังพร้อมเปลี่ยนทุกวันให้เป็นซัมเมอร์ในความฝันของคุณได้แล้วผ้าไม่ยืดผ้าฝ้ายที่เป็นมิตรต่อสิ่งแวดล้อมทรงขาบานเอวสูงแต่งดีไซน์แพทเวิร์คสวมใส่ง่ายด้วยกระดุมและซิปหน้ามาพร้อมกระเป๋าหลังมาพร้อมกระเป๋าด้านข้างเดนิมตัวนี้เป็นมิตรต่อสิ่งแวดล้อมเพราะทำมาจากกระบวนการ Water Neutral Process หรือการลดการใช้น้ำและจัดการน้ำให้มีประสิทธิภาพมากขึ้นในการผลิตเสื้อผ้าที่มีคุณภาพและดีต่อสิ่งแวดล้อม",
+  },
+  {
+    product_id: "006",
+    product_name: "บิกินี่ท่อนบนลายตารางหมากรุกเป็นมิตรต่อสิ่งแวดล้อม ",
+    image_path:
+      "https://pomelofashion.imgix.net/img/p/2/4/5/4/1/1/245411.jpg?auto=compress,format&fm=webp,jpg,png&w=800&q=75",
+    price: "690",
+    detail:
+      "มั่นใจให้สุดในซัมเมอร์นี้กับสไตล์ย้อนยุคแนวใหม่ในคอลเลคชั่น Spring Summer 2021 มีทั้งดีเทลลายปริ้นท์ยุค 70's & โทนสีสุดอินเทรนด์ มาเนรมิตลุคให้ปังพร้อมเปลี่ยนทุกวันให้เป็นซัมเมอร์ในความฝันของคุณได้แล้วผ้าผ่านกระบวนการผลิตอย่างยั่งยืน   ทำจากผ้าไนลอนรีไซเคิล   ทำจากผ้าสแปนเด็กซ์  สวมใส่ง่ายด้วยตะขอ สายปรับระดับได้ โดดเด่นด้วยลายตารางหมากรุก คอเสื้อทรงสี่เหลี่ยม  บิกินี่",
+  },
+  {
+    product_id: "007",
+    product_name: "เดรสดีไซน์เว้าลายตารางกิงแฮม",
+    image_path:
+      "https://pomelofashion.imgix.net/img/p/2/4/5/7/8/9/245789.jpg?auto=compress,format&fm=webp,jpg,png&w=800&q=75",
+    price: "1090",
+    detail:
+      "มั่นใจให้สุดในซัมเมอร์นี้กับสไตล์ย้อนยุคแนวใหม่ในคอลเลคชั่น Spring Summer 2021 มีทั้งดีเทลลายปริ้นท์ยุค 70's & โทนสีสุดอินเทรนด์ มาเนรมิตลุคให้ปังพร้อมเปลี่ยนทุกวันให้เป็นซัมเมอร์ในความฝันของคุณได้แล้วทำจากผ้าโพลีเอสเตอร์ทำจากผ้าสแปนเด็กซ์  ทรงสวยเข้ารูป โดดเด่นด้วยผ้าลายตารางกิงแฮม    แต่งลูกเล่นดีไซน์เว้าแบบคัทเอาท์    แต่งดีไซน์ระบายเพิ่มความหวาน โดดเด่นด้วยดีไซน์ผูกมัด",
+  },
+  {
+    product_id: "008",
+    product_name: "เดรสแขนตุ๊กตาแต่งดีไซน์ระบาย",
+    image_path:
+      "https://pomelofashion.imgix.net/img/p/2/4/5/9/4/0/245940.jpg?auto=compress,format&fm=webp,jpg,png&w=800&q=75",
+    price: "1090",
+    detail:
+      "มั่นใจให้สุดในซัมเมอร์นี้กับสไตล์ย้อนยุคแนวใหม่ในคอลเลคชั่น Spring Summer 2021 มีทั้งดีเทลลายปริ้นท์ยุค 70's & โทนสีสุดอินเทรนด์ มาเนรมิตลุคให้ปังพร้อมเปลี่ยนทุกวันให้เป็นซัมเมอร์ในความฝันของคุณได้แล้วทำจากผ้าโพลีเอสเตอร์    โดดเด่นด้วยลายตารางหมากรุก เสื้อคอวี  แขนเสื้อทรงตุ๊กตา   ความยาวระดับต้นขา แต่งดีไซน์ระบายเพิ่มความหวาน",
+  },
+  {
+    product_id: "009",
+    product_name: "กางเกงลายตารางเป็นมิตรต่อสิ่งแวดล้อม",
+    image_path:
+      "https://pomelofashion.imgix.net/img/p/2/4/5/5/1/1/245511.jpg?auto=compress,format&fm=webp,jpg,png&w=800&q=75",
+    price: "1190",
+    detail:
+      "มั่นใจให้สุดในซัมเมอร์นี้กับสไตล์ย้อนยุคแนวใหม่ในคอลเลคชั่น Spring Summer 2021 มีทั้งดีเทลลายปริ้นท์ยุค 70's & โทนสีสุดอินเทรนด์ มาเนรมิตลุคให้ปังพร้อมเปลี่ยนทุกวันให้เป็นซัมเมอร์ในความฝันของคุณได้แล้วผ้าไม่ยืด  ผ้าฝ้ายที่เป็นมิตรต่อสิ่งแวดล้อม  เอวสูง   ท่อนล่างทรงครอป   โดดเด่นด้วยลายตารางหมากรุก มาพร้อมกระเป๋าหน้า มาพร้อมกระเป๋าหลัง เดนิมตัวนี้เป็นมิตรต่อสิ่งแวดล้อมเพราะทำมาจากกระบวนการ Water Neutral Process หรือการลดการใช้น้ำและจัดการน้ำให้มีประสิทธิภาพมากขึ้นในการผลิตเสื้อผ้าที่มีคุณภาพและดีต่อสิ่งแวดล้อม",
+  },
+  {
+    product_id: "010",
+    product_name: "เสื้อดีไซน์ผูกที่คอพิมพ์ลายกราฟฟิก",
+    image_path:
+      "https://pomelofashion.imgix.net/img/p/2/4/5/9/5/4/245954.jpg?auto=compress,format&fm=webp,jpg,png&w=800&q=75",
+    price: "590",
+    detail:
+      "มั่นใจให้สุดในซัมเมอร์นี้กับสไตล์ย้อนยุคแนวใหม่ในคอลเลคชั่น Spring Summer 2021 มีทั้งดีเทลลายปริ้นท์ยุค 70's & โทนสีสุดอินเทรนด์ มาเนรมิตลุคให้ปังพร้อมเปลี่ยนทุกวันให้เป็นซัมเมอร์ในความฝันของคุณได้แล้วทำจากผ้าโพลีเอสเตอร์    เสื้อทรงครอป  บิกินี่แต่งดีไซน์คล้องคอ    แต่งดีไซน์ผ้าผูกที่คอเสื้อ   โดดเด่นด้วยดีเทลพลีท    สายปรับระดับได้    สกรีนลายกราฟฟิค",
+  },
+];
