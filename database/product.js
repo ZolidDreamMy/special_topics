@@ -1,4 +1,4 @@
-[
+product = [
     {
       "product_id": "jenlooper-cactus",
       "product_name": "@jenlooper",
