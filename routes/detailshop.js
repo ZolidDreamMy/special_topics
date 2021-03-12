@@ -8,11 +8,11 @@ const modelDir = require('../database/product');
 const router = express.Router();
 
 
-router.get('/detail/{id}', (req, res) => {
+router.get('/add-product', (req, res) => {
   const id = req.query.id;
-  product = modelDir.product[id]
+  product = modelDir.product;
   console.log(id)
-  res.render('detail', {
+  res.render('add-product', {
     prods: product,
     pageTitle: 'detail',
     path: '/',
