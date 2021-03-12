@@ -9,9 +9,13 @@ const router = express.Router();
 
 
 router.get('/add-product', (req, res) => {
-  const id = req.query.id;
-  product = modelDir.product;
-  console.log(id)
+
+  const product_id = req.query.product_id;
+  
+  product = modelDir.find(o =>o.product_id === product_id);
+  console.log(product);
+  console.log(product_id);
+
   res.render('add-product', {
     prods: product,
     pageTitle: 'detail',
